@@ -1,4 +1,4 @@
-**# TechWrite**
+**#TechWrite**
 
 **File Format:** Markdown (.md) is the recommended format for README files because of its simplicity and readability.
 
